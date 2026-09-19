@@ -16,9 +16,7 @@ const Footer = () => {
            
         </a>
 
-        <p className="copyright">
-          © {new Date().getFullYear()} Movie Explorer. All rights reserved.
-        </p>
+         
       </div>
     </footer>
   );
